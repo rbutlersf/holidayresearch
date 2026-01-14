@@ -327,6 +327,7 @@
                 <h4 style="color: var(--primary-dark); margin: var(--spacing-lg) 0 var(--spacing-md);">Palazzo di Varignana Resort Villas</h4>
                 <div class="alternatives-grid">
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400" alt="Villa Tamburina">
                         <h4>Villa Tamburina</h4>
                         <p>Palazzo di Varignana • 400 sqm • Heated Infinity Pool</p>
                         <div class="alt-features">
@@ -338,6 +339,7 @@
                         <a href="https://www.palazzodivarignana.com/en/hospitality/villas/" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Check Availability →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=400" alt="Villa Amagioia">
                         <h4>Villa Amagioia</h4>
                         <p>Palazzo di Varignana • Infinity Pool + Whirlpool</p>
                         <div class="alt-features">
@@ -349,6 +351,7 @@
                         <a href="https://www.palazzodivarignana.com/en/hospitality/villas/amagioia/" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Check Availability →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=400" alt="Villa Colombara">
                         <h4>Villa Colombara</h4>
                         <p>Palazzo di Varignana • Most Spacious (Sleeps 12)</p>
                         <div class="alt-features">
@@ -364,6 +367,7 @@
                 <h4 style="color: var(--primary-dark); margin: var(--spacing-lg) 0 var(--spacing-md);">Budget-Friendly Villa Options</h4>
                 <div class="alternatives-grid">
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=400" alt="Parco dei Gessi">
                         <h4>Parco dei Gessi Farmhouse</h4>
                         <p>UNESCO World Heritage Site • Authentic Agriturismo</p>
                         <div class="alt-features">
@@ -376,6 +380,7 @@
                         <a href="https://www.airbnb.com/s/Bologna--Italy/homes?refinement_paths%5B%5D=%2Fhomes&search_type=filter_change" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Search on Airbnb →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400" alt="La Collina">
                         <h4>La Collina Farmhouse</h4>
                         <p>Restored Hillside Villa • Rolling Hills Views</p>
                         <div class="alt-features">
@@ -387,6 +392,7 @@
                         <a href="https://www.vrbo.com/vacation-rentals/villas/italy/metropolitan-city-of-bologna" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Search on VRBO →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1540541338287-41700207dee6?w=400" alt="Vigna del Sol">
                         <h4>Vigna del Sol Apartment</h4>
                         <p>Bologna Hills • Saltwater Pool • Most Affordable</p>
                         <div class="alt-features">
@@ -402,6 +408,7 @@
                 <h4 style="color: var(--primary-dark); margin: var(--spacing-lg) 0 var(--spacing-md);">Vacation Rentals - City Base</h4>
                 <div class="alternatives-grid">
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400" alt="Bologna Centro">
                         <h4>Bologna Centro Apartment</h4>
                         <p>10-min walk to train station • City center location</p>
                         <div class="alt-features">
@@ -413,6 +420,7 @@
                         <a href="https://www.airbnb.com/s/Bologna--Italy/homes" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Search on Airbnb →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400" alt="Bologna Suburbs">
                         <h4>Bologna Suburbs Villa</h4>
                         <p>15 min from center • Garden & Parking included</p>
                         <div class="alt-features">
@@ -428,6 +436,7 @@
                 <h4 style="color: var(--primary-dark); margin: var(--spacing-lg) 0 var(--spacing-md);">Hotels with Connecting Rooms</h4>
                 <div class="alternatives-grid">
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400" alt="AC Hotel Bologna">
                         <h4>AC Hotel Bologna by Marriott</h4>
                         <p>Near train station • Modern • Marriott Bonvoy points</p>
                         <div class="alt-features">
@@ -439,6 +448,7 @@
                         <a href="https://www.marriott.com/en-us/hotels/blqbo-ac-hotel-bologna/rooms/" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Check Availability →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400" alt="Hotel Corona d'Oro">
                         <h4>Hotel Corona d'Oro</h4>
                         <p>Historic center • Luxury • 9.4/10 family rating</p>
                         <div class="alt-features">
@@ -526,6 +536,7 @@
                 <h4 style="color: var(--primary-dark); margin: var(--spacing-lg) 0 var(--spacing-md);">Unique Boutique Hotels (2 Rooms)</h4>
                 <div class="alternatives-grid">
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400" alt="Grand Hotel Majestic">
                         <h4>Grand Hotel Majestic "già Baglioni"</h4>
                         <p>Bologna's Most Prestigious 5-Star • Historic Luxury</p>
                         <div class="alt-features">
@@ -537,6 +548,7 @@
                         <a href="https://grandhotelmajestic.duetorrihotels.com/en" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Visit Hotel Website →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400" alt="Art Hotel Orologio">
                         <h4>Art Hotel Orologio</h4>
                         <p>Family-Owned for 40+ Years • Old-World Charm</p>
                         <div class="alt-features">
@@ -548,6 +560,7 @@
                         <a href="https://www.tripadvisor.com/HotelsList-Bologna-Boutique-Hotels-zfp140503.html" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Find on TripAdvisor →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1609766061971-03c8e677b745?w=400" alt="Phi Hotel Bologna">
                         <h4>Phi Hotel Bologna</h4>
                         <p>Contemporary Art Hotel • Next to Piazza Maggiore</p>
                         <div class="alt-features">
@@ -564,6 +577,7 @@
                 <p style="color: var(--dark-gray); margin-bottom: var(--spacing-md); font-style: italic;">Experience authentic Italian countryside with pools, farm animals, and farm-to-table meals!</p>
                 <div class="alternatives-grid">
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1595433707802-6b2626ef1c91?w=400" alt="Agriturismo Primaluna">
                         <h4>Agriturismo Primaluna</h4>
                         <p>Just 7km from Bologna • Countryside Setting</p>
                         <div class="alt-features">
@@ -575,6 +589,7 @@
                         <a href="https://en.agriturismo.it/farmhouse/emilia_romagna/bologna" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Find on Agriturismo.it →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=400" alt="Agriturismo Flabeto">
                         <h4>Agriturismo Flabeto</h4>
                         <p>Near Budrio • Family-Run with Farm Animals</p>
                         <div class="alt-features">
@@ -586,6 +601,7 @@
                         <a href="https://www.agriturismi.it/en/bologna" target="_blank" style="font-size: 0.875rem; color: var(--primary-color);">Find on Agriturismi.it →</a>
                     </div>
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1574643156929-51fa098b0394?w=400" alt="Agriturismo Rio Verde">
                         <h4>Agriturismo Rio Verde</h4>
                         <p>Near Sasso Marconi • Nature & Culture Focus</p>
                         <div class="alt-features">
@@ -614,6 +630,7 @@
             <!-- Interlaken Accommodation -->
             <div class="accommodation-card">
                 <div class="accom-card-image">
+                    <img src="https://images.unsplash.com/photo-1586611292717-f8be95ba3775?w=600" alt="Interlaken Apartment">
                 </div>
                 <div class="accom-card-content">
                     <h3>Family Apartment lake and mountain ⭐ 4.93</h3>
@@ -629,10 +646,7 @@
                         <span>3 nights (July 19-22)</span>
                         <span class="price">$1,948 total</span>
                     </div>
-                    <a href="https://www.airbnb.com/rooms/33290346" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: 1rem;">
-                        <i class="fas fa-images"></i> View Photos & Book This Property
-                    </a>
-                    <button class="btn btn-primary" onclick="toggleAlternatives('interlaken')" style="width: 100%; margin-top: 0.5rem; background: var(--secondary-color);">
+                    <button class="btn btn-primary" onclick="toggleAlternatives('interlaken')" style="width: 100%; margin-top: 1rem;">
                         <i class="fas fa-list"></i> View All Accommodation Options (10+ Verified Properties)
                     </button>
                 </div>
@@ -646,6 +660,7 @@
                 <div class="alternatives-grid">
                     <!-- Property 1 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1586611292717-f8be95ba3775?w=400" alt="Family Apartment Ringgenberg">
                         <h4>Family Apartment lake and mountain ⭐ 4.93</h4>
                         <p>Ringgenberg • 5 min from Interlaken</p>
                         <div class="alt-features">
@@ -653,11 +668,12 @@
                             <span><i class="fas fa-star"></i> 4.93★ (195 reviews)</span>
                         </div>
                         <p class="alt-price">$1,948 for 3 nights • Best Value!</p>
-                        <a href="https://www.airbnb.com/rooms/33290346" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-images"></i> View Photos & Book</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 2 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400" alt="Traditional Chalet">
                         <h4>Traditional chalet near Interlaken ⭐ 5.0</h4>
                         <p>Unterseen • Next to Interlaken</p>
                         <div class="alt-features">
@@ -665,11 +681,12 @@
                             <span><i class="fas fa-star"></i> 5.0★ (32 reviews) - PERFECT!</span>
                         </div>
                         <p class="alt-price">$2,547 for 3 nights • Authentic Swiss</p>
-                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 3 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1554995207-c18c203602cb?w=400" alt="Interlaken Central 3">
                         <h4>Interlaken Central 3 ⭐ 4.87</h4>
                         <p>Interlaken • Central Location</p>
                         <div class="alt-features">
@@ -677,11 +694,12 @@
                             <span><i class="fas fa-star"></i> 4.87★ (118 reviews)</span>
                         </div>
                         <p class="alt-price">$2,813 for 3 nights • Walking distance</p>
-                        <a href="https://www.airbnb.com/rooms/23192844" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-images"></i> View Photos & Book</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 4 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=400" alt="Sawasdee Swiss Chalet">
                         <h4>Sawasdee Swiss Chalet Wilderswil ⭐ 4.9</h4>
                         <p>Wilderswil • 2 min from Interlaken</p>
                         <div class="alt-features">
@@ -689,11 +707,12 @@
                             <span><i class="fas fa-star"></i> 4.9★ (61 reviews)</span>
                         </div>
                         <p class="alt-price">$2,927 for 3 nights • Charming chalet</p>
-                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 5 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400" alt="Early Spring Special">
                         <h4>Early Spring Special ⭐ 4.97</h4>
                         <p>Interlaken • Full Home Rental</p>
                         <div class="alt-features">
@@ -701,11 +720,12 @@
                             <span><i class="fas fa-star"></i> 4.97★ (75 reviews)</span>
                         </div>
                         <p class="alt-price">$3,022 for 3 nights • Privacy</p>
-                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 6 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400" alt="AlpinLux Chalet">
                         <h4>AlpinLux Chalet ⭐ 4.95</h4>
                         <p>Beatenberg • Mountain Village</p>
                         <div class="alt-features">
@@ -713,11 +733,12 @@
                             <span><i class="fas fa-star"></i> 4.95★ (43 reviews)</span>
                         </div>
                         <p class="alt-price">$3,333 for 3 nights • Panoramic views</p>
-                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 7 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400" alt="Calm and Luxurious Retreat">
                         <h4>Calm and Luxurious Retreat ⭐ 5.0</h4>
                         <p>Interlaken • Luxury</p>
                         <div class="alt-features">
@@ -725,7 +746,7 @@
                             <span><i class="fas fa-star"></i> 5.0★ (21 reviews) - PERFECT!</span>
                         </div>
                         <p class="alt-price">$4,022 for 3 nights • Ultimate comfort</p>
-                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Interlaken--Switzerland/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-19&checkout=2026-07-22&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
                 </div>
 
@@ -733,6 +754,7 @@
                 <div class="alternatives-grid">
                     <!-- Hotel 1 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400" alt="Boutique Hotel Bellevue">
                         <h4>Boutique Hotel Bellevue ⭐⭐⭐⭐</h4>
                         <p>Interlaken • Riverside Location</p>
                         <div class="alt-features">
@@ -745,6 +767,7 @@
 
                     <!-- Hotel 2 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=400" alt="Hotel Du Lac">
                         <h4>Hotel Du Lac (Family Favorite)</h4>
                         <p>Riverside • 2-min walk to Ost Station</p>
                         <div class="alt-features">
@@ -785,6 +808,7 @@
             <!-- Budapest Accommodation -->
             <div class="accommodation-card">
                 <div class="accom-card-image">
+                    <img src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600" alt="Budapest Apartment">
                 </div>
                 <div class="accom-card-content">
                     <h3>Breathtaking VIEW, CENTRAL Downtown ⭐ 4.97</h3>
@@ -800,10 +824,7 @@
                         <span>4 nights (July 22-26)</span>
                         <span class="price">$2,151 total</span>
                     </div>
-                    <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: 1rem;">
-                        <i class="fas fa-search"></i> Find This Property
-                    </a>
-                    <button class="btn btn-primary" onclick="toggleAlternatives('budapest')" style="width: 100%; margin-top: 0.5rem; background: var(--secondary-color);">
+                    <button class="btn btn-primary" onclick="toggleAlternatives('budapest')" style="width: 100%; margin-top: 1rem;">
                         <i class="fas fa-list"></i> View All Accommodation Options (12+ Verified Properties)
                     </button>
                 </div>
@@ -817,6 +838,7 @@
                 <div class="alternatives-grid">
                     <!-- Property 1 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400" alt="Breathtaking VIEW Downtown">
                         <h4>Breathtaking VIEW, CENTRAL Downtown ⭐ 4.97</h4>
                         <p>District V • Inner City @ Danube</p>
                         <div class="alt-features">
@@ -824,11 +846,12 @@
                             <span><i class="fas fa-star"></i> 4.97★ (162 reviews)</span>
                         </div>
                         <p class="alt-price">$2,151 for 4 nights • Best Value!</p>
-                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 2 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400" alt="125 sqm Contemporary">
                         <h4>125 sqm 4R+3Ba Contemporary ⭐ 4.94</h4>
                         <p>District VIII • Józsefváros</p>
                         <div class="alt-features">
@@ -836,11 +859,12 @@
                             <span><i class="fas fa-star"></i> 4.94★ (264 reviews) - MOST REVIEWS!</span>
                         </div>
                         <p class="alt-price">$2,055 for 4 nights • 3 bathrooms!</p>
-                        <a href="https://www.airbnb.com/rooms/40776910" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-images"></i> View Photos & Book</a>
+                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 3 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400" alt="Prestige Suite Opera">
                         <h4>Prestige Suite Opera - supercentral ⭐ 4.83</h4>
                         <p>District VI • Opera House Area</p>
                         <div class="alt-features">
@@ -848,11 +872,12 @@
                             <span><i class="fas fa-star"></i> 4.83★ (122 reviews)</span>
                         </div>
                         <p class="alt-price">$3,522 for 4 nights • Most beds (7!)</p>
-                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 4 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400" alt="Bright & Grand">
                         <h4>Bright & Grand with 4 bedrooms ⭐ 4.98</h4>
                         <p>District VII • Jewish Quarter</p>
                         <div class="alt-features">
@@ -860,11 +885,12 @@
                             <span><i class="fas fa-star"></i> 4.98★ (37 reviews)</span>
                         </div>
                         <p class="alt-price">$3,949 for 4 nights • Ruin bars nearby!</p>
-                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 5 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1556912173-46c336c7fd55?w=400" alt="Diamonds Home">
                         <h4>Diamonds Home ⭐ 5.0</h4>
                         <p>District VI • Opera/Andrassy Area</p>
                         <div class="alt-features">
@@ -872,11 +898,12 @@
                             <span><i class="fas fa-star"></i> 5.0★ (100 reviews) - PERFECT!</span>
                         </div>
                         <p class="alt-price">$4,042 for 4 nights • Zero complaints</p>
-                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
 
                     <!-- Property 6 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400" alt="Luxury Designer Loft">
                         <h4>Luxury Designer Loft at Chainbridge ⭐ 4.90</h4>
                         <p>Chainbridge Area • Stunning Location</p>
                         <div class="alt-features">
@@ -884,7 +911,7 @@
                             <span><i class="fas fa-star"></i> 4.90★ (229 reviews)</span>
                         </div>
                         <p class="alt-price">$6,006 for 4 nights • Ultimate luxury</p>
-                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank" class="btn btn-primary" style="display: inline-block; width: 100%; text-align: center; text-decoration: none; margin-top: var(--spacing-sm);"><i class="fas fa-search"></i> Find This Property</a>
+                        <a href="https://www.airbnb.com/s/Budapest--Hungary/homes?refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2026-07-22&checkout=2026-07-26&adults=6&children=1" target="_blank">View on Airbnb →</a>
                     </div>
                 </div>
 
@@ -893,6 +920,7 @@
                 <div class="alternatives-grid">
                     <!-- Hotel 1 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400" alt="Danubius Hotel Helia">
                         <h4>Danubius Hotel Helia ⭐⭐⭐⭐</h4>
                         <p>Pest side • Near Margaret Bridge</p>
                         <div class="alt-features">
@@ -905,6 +933,7 @@
 
                     <!-- Hotel 2 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=400" alt="Ensana Thermal Margaret Island">
                         <h4>Ensana Thermal Margaret Island</h4>
                         <p>Margaret Island • Park Setting</p>
                         <div class="alt-features">
@@ -917,6 +946,7 @@
 
                     <!-- Hotel 3 -->
                     <div class="alt-card">
+                        <img src="https://images.unsplash.com/photo-1540541338287-41700207dee6?w=400" alt="Kimpton BEM">
                         <h4>Kimpton BEM (Modern Luxury)</h4>
                         <p>Buda side • Boutique Hotel</p>
                         <div class="alt-features">
