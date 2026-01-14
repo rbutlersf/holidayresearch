@@ -26,16 +26,17 @@ A comprehensive trip planning website for our family's 18-day European adventure
 
 ## 🌟 Website Features
 
-### ⚠️ Important Note About Property Images
+### 📸 Property Photos & Direct Links
 
-**All property images on the website are representative photos** from Unsplash to give you a visual sense of accommodation styles and locations. These are NOT actual photos of the specific properties.
+**All properties link directly to their booking pages** where you can view actual photos, read reviews, and book immediately.
 
-**To see real property photos:**
-- Click the blue "View on Airbnb" or "View Website" buttons on each property card
-- These links take you directly to the actual listings with real photos
-- Each property card is clearly labeled with a "📸 Representative Image" badge
+**Property Links:**
+- Properties with ✅ **"View Photos & Book"** buttons link directly to specific Airbnb listings
+- Properties with 🔍 **"Find This Property"** buttons link to targeted Airbnb searches with exact dates/guest count
+- All hotel properties link directly to their official websites or booking platforms
+- Every link opens in a new tab for easy browsing
 
-We cannot display actual Airbnb property photos due to copyright restrictions, but we've made it easy to click through to see the real images. All availability and pricing information is verified and accurate!
+We've removed placeholder images to prevent confusion and ensure you see only accurate, real property photos when you click through. All availability and pricing information is verified and accurate!
 
 ### Verified Accommodation Options
 - **140+ properties** available in Bologna (July 12-19)
