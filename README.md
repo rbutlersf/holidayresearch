@@ -26,6 +26,17 @@ A comprehensive trip planning website for our family's 18-day European adventure
 
 ## 🌟 Website Features
 
+### ⚠️ Important Note About Property Images
+
+**All property images on the website are representative photos** from Unsplash to give you a visual sense of accommodation styles and locations. These are NOT actual photos of the specific properties.
+
+**To see real property photos:**
+- Click the blue "View on Airbnb" or "View Website" buttons on each property card
+- These links take you directly to the actual listings with real photos
+- Each property card is clearly labeled with a "📸 Representative Image" badge
+
+We cannot display actual Airbnb property photos due to copyright restrictions, but we've made it easy to click through to see the real images. All availability and pricing information is verified and accurate!
+
 ### Verified Accommodation Options
 - **140+ properties** available in Bologna (July 12-19)
 - **457+ properties** available in Interlaken (July 19-22)

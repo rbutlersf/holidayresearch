@@ -2208,3 +2208,61 @@ a:active {
         scroll-behavior: auto !important;
     }
 }
+
+/* ========================================
+   PROPERTY IMAGE INDICATORS
+   ======================================== */
+
+/* Add visual indicator to all property images that they are representative */
+.alt-card img,
+.accom-card-image img,
+.accom-images img {
+    position: relative;
+}
+
+.alt-card::before {
+    content: '📸 Representative Image';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255, 193, 7, 0.95);
+    color: var(--black);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    z-index: 2;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Make Airbnb/booking links more prominent */
+.alt-card a,
+.alt-card a[href*="airbnb"],
+.alt-card a[href*="hotels.com"],
+.alt-card a[href*="tripadvisor"] {
+    display: inline-block;
+    background: var(--primary-color);
+    color: white !important;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all var(--transition-base);
+    text-decoration: none;
+    margin-top: var(--spacing-xs);
+}
+
+.alt-card a:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.alt-card a::after {
+    content: ' 🔗';
+    margin-left: 4px;
+}
+
+/* Ensure alt-card has position relative for the ::before overlay */
+.alt-card {
+    position: relative;
+}
